@@ -22,7 +22,7 @@ body{
     width: 50%;
     margin-top: 20px;
     border-radius: 10px;
-    overflow: hidden;
+    overflow-y: scroll;
 }
 #map{
     height:100%;

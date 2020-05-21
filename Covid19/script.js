@@ -90,6 +90,7 @@ const showDataOnMap = (data) => {
 
 const showDataInTable = (data) =>{
     var html ='';
+    
     data.forEach((country)=>{
         html += `
         <tr>
