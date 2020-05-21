@@ -1,6 +1,7 @@
 // once load website that call this founction
 window.onload = () => {
     getCountryData()
+   
 }
 //create googlemap from googlemapapi
 var map;
@@ -27,6 +28,7 @@ const getCountryData = () => {
         }).then((data) => {
             // if resolve => get response.json data
             showDataOnMap(data)
+            showDataInTable(data);
         })
 }
 
@@ -51,7 +53,7 @@ const showDataOnMap = (data) => {
             radius: Math.sqrt(country.recoveredPerOneMillion) * 6000
         });
 
-        var html =`
+        var html = `
         <div class="info-container">
             <div class="info-flag">
                 <img src ="${country.countryInfo.flag}"
@@ -73,15 +75,30 @@ const showDataOnMap = (data) => {
 
         //mouse move in/out show/close info of country
         var infoWindow = new google.maps.InfoWindow({
-            content:html,
-            position:countryCircle.center
+            content: html,
+            position: countryCircle.center
         });
-        google.maps.event.addListener(countryCircle, 'mouseover',()=>{
+        google.maps.event.addListener(countryCircle, 'mouseover', () => {
             infoWindow.open(map);
         });
-        google.maps.event.addListener(countryCircle, 'mouseout',()=>{
+        google.maps.event.addListener(countryCircle, 'mouseout', () => {
             infoWindow.close();
         })
     })
 
+}
+
+const showDataInTable = (data) =>{
+    var html ='';
+    data.forEach((country)=>{
+        html += `
+        <tr>
+            <td>${country.country}</td>
+            <td>${country.cases}</td>
+            <td>${country.recovered}</td>
+            <td>${country.deaths}</td>
+        </tr>    
+        `
+    })
+    document.getElementById('table-data').innerHTML= html;
 }

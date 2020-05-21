@@ -13,8 +13,16 @@ body{
 }
 
 .data-info{
-    background-color: coral;
+    
     height:700px;
+    display: flex;
+    justify-content: center;
+}
+.country-data{
+    width: 50%;
+    margin-top: 20px;
+    border-radius: 10px;
+    overflow: hidden;
 }
 #map{
     height:100%;
