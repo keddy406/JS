@@ -1,0 +1,22 @@
+body{
+    margin:;
+}
+
+.nav{
+    background-color: blue;
+    height: 50px;
+}
+
+.map-info{
+    background-color: bisque;
+    height:400px;
+}
+
+.data-info{
+    background-color: coral;
+    height:700px;
+}
+#map{
+    height:100%;
+    width: 100%;
+}

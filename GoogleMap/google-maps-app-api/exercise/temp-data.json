@@ -1,0 +1,1819 @@
+[{
+    "recommendation": {},
+    "storeNumber": "47409-258147",
+    "id": "1014866",
+    "name": "Wufu Zhonghua",
+    "phoneNumber": null,
+    "coordinates": {
+        "latitude": 22.6218,
+        "longitude": 120.29907
+    },
+    "regulations": [],
+    "address": {
+        "streetAddressLine1": "No.31, Wufu 3rd Rd.",
+        "streetAddressLine2": "Qianjin Dist",
+        "streetAddressLine3": null,
+        "city": "Kaohsiung City",
+        "countrySubdivisionCode": "KHH",
+        "countryCode": "TW",
+        "postalCode": "80146"
+    },
+    "timeZoneInfo": {
+        "currentTimeOffset": 480,
+        "windowsTimeZoneId": "Taipei Standard Time",
+        "olsonTimeZoneId": "GMT+08:00 Asia/Taipei"
+    },
+    "brandName": "Starbucks",
+    "ownershipTypeCode": "LS",
+    "open": null,
+    "openStatusText": "",
+    "addressLines": ["No.31, Wufu 3rd Rd.", "Qianjin Dist", "Kaohsiung City, KHH 80146"],
+    "mop": {
+        "ready": false,
+        "wait": null
+    },
+    "features": [],
+    "slug": "wufu-zhonghua-no-31-wufu-3rd-rd-kaohsiung-city-khh-80146-tw"
+}, {
+    "recommendation": {},
+    "storeNumber": "16753-175384",
+    "id": "70007",
+    "name": "Qixian",
+    "phoneNumber": null,
+    "coordinates": {
+        "latitude": 22.620341,
+        "longitude": 120.30319
+    },
+    "regulations": [],
+    "address": {
+        "streetAddressLine1": "No.291 &293, Qixian 1st Rd, Xinxing Dist",
+        "streetAddressLine2": null,
+        "streetAddressLine3": null,
+        "city": "Kaohsiung City",
+        "countrySubdivisionCode": "KHH",
+        "countryCode": "TW",
+        "postalCode": "80053"
+    },
+    "timeZoneInfo": {
+        "currentTimeOffset": 480,
+        "windowsTimeZoneId": "Taipei Standard Time",
+        "olsonTimeZoneId": "GMT+08:00 Asia/Taipei"
+    },
+    "brandName": "Starbucks",
+    "ownershipTypeCode": "LS",
+    "open": null,
+    "openStatusText": "",
+    "addressLines": ["No.291 &293, Qixian 1st Rd, Xinxing Dist", "Kaohsiung City, KHH 80053"],
+    "mop": {
+        "ready": false,
+        "wait": null
+    },
+    "features": [],
+    "slug": "qixian-no-291-293-qixian-1st-rd-xinxing-dist-kaohsiung-ci"
+}, {
+    "recommendation": {},
+    "storeNumber": "50819-276498",
+    "id": "1021674",
+    "name": "HanshinB1F_Kaohsiung",
+    "phoneNumber": null,
+    "coordinates": {
+        "latitude": 22.619346,
+        "longitude": 120.296129
+    },
+    "regulations": [],
+    "address": {
+        "streetAddressLine1": "B1F., No.266-1, Chenggong 1st Rd.,",
+        "streetAddressLine2": null,
+        "streetAddressLine3": null,
+        "city": "Kaohsiung",
+        "countrySubdivisionCode": "KHH",
+        "countryCode": "TW",
+        "postalCode": "80146"
+    },
+    "timeZoneInfo": {
+        "currentTimeOffset": 480,
+        "windowsTimeZoneId": "Taipei Standard Time",
+        "olsonTimeZoneId": "GMT+08:00 Asia/Taipei"
+    },
+    "brandName": "Starbucks",
+    "ownershipTypeCode": "LS",
+    "open": null,
+    "openStatusText": "",
+    "addressLines": ["B1F., No.266-1, Chenggong 1st Rd.,", "Kaohsiung, KHH 80146"],
+    "mop": {
+        "ready": false,
+        "wait": null
+    },
+    "features": [],
+    "slug": "hanshin-b-1-f-kaohsiung-b-1-f-no-266-1-chenggong-1st-rd-kaohsiung-khh-8014"
+}, {
+    "recommendation": {},
+    "storeNumber": "33355-121125",
+    "id": "6320",
+    "name": "Qing Nian",
+    "phoneNumber": null,
+    "coordinates": {
+        "latitude": 22.61795,
+        "longitude": 120.296216
+    },
+    "regulations": [],
+    "address": {
+        "streetAddressLine1": "No. 221, Chenggong 1st Rd, Lingya Dist.",
+        "streetAddressLine2": "1F",
+        "streetAddressLine3": null,
+        "city": "Kaohsiung City",
+        "countrySubdivisionCode": "KHH",
+        "countryCode": "TW",
+        "postalCode": null
+    },
+    "timeZoneInfo": {
+        "currentTimeOffset": 480,
+        "windowsTimeZoneId": "Taipei Standard Time",
+        "olsonTimeZoneId": "GMT+08:00 Asia/Taipei"
+    },
+    "brandName": "Starbucks",
+    "ownershipTypeCode": "LS",
+    "open": null,
+    "openStatusText": "",
+    "addressLines": ["No. 221, Chenggong 1st Rd, Lingya Dist.", "1F"],
+    "mop": {
+        "ready": false,
+        "wait": null
+    },
+    "features": [],
+    "slug": "qing-nian-no-221-chenggong-1st-rd-lingya-dist-kaohsiung-city"
+}, {
+    "recommendation": {},
+    "storeNumber": "15762-164764",
+    "id": "65768",
+    "name": "Siwei Minquan",
+    "phoneNumber": null,
+    "coordinates": {
+        "latitude": 22.61842,
+        "longitude": 120.310514
+    },
+    "regulations": [],
+    "address": {
+        "streetAddressLine1": "No.17, Siwei 3rd Rd, Lingya District",
+        "streetAddressLine2": null,
+        "streetAddressLine3": null,
+        "city": "Kaohsiung City",
+        "countrySubdivisionCode": "KHH",
+        "countryCode": "TW",
+        "postalCode": "802"
+    },
+    "timeZoneInfo": {
+        "currentTimeOffset": 480,
+        "windowsTimeZoneId": "Taipei Standard Time",
+        "olsonTimeZoneId": "GMT+08:00 Asia/Taipei"
+    },
+    "brandName": "Starbucks",
+    "ownershipTypeCode": "LS",
+    "open": null,
+    "openStatusText": "",
+    "addressLines": ["No.17, Siwei 3rd Rd, Lingya District", "Kaohsiung City, KHH 802"],
+    "mop": {
+        "ready": false,
+        "wait": null
+    },
+    "features": [],
+    "slug": "siwei-minquan-no-17-siwei-3rd-rd-lingya-district-kaohsiung-city-"
+}, {
+    "recommendation": {},
+    "storeNumber": "9064-152004",
+    "id": "19018",
+    "name": "FE21-1F-Kaohsiung",
+    "phoneNumber": null,
+    "coordinates": {
+        "latitude": 22.614349,
+        "longitude": 120.302254
+    },
+    "regulations": [],
+    "address": {
+        "streetAddressLine1": "No. 21, Sanduo 4th Rd., Lingya District",
+        "streetAddressLine2": "1F",
+        "streetAddressLine3": null,
+        "city": "Kaohsiung City",
+        "countrySubdivisionCode": "KHH",
+        "countryCode": "TW",
+        "postalCode": "802"
+    },
+    "timeZoneInfo": {
+        "currentTimeOffset": 480,
+        "windowsTimeZoneId": "Taipei Standard Time",
+        "olsonTimeZoneId": "GMT+08:00 Asia/Taipei"
+    },
+    "brandName": "Starbucks",
+    "ownershipTypeCode": "LS",
+    "open": null,
+    "openStatusText": "",
+    "addressLines": ["No. 21, Sanduo 4th Rd., Lingya District", "1F", "Kaohsiung City, KHH 802"],
+    "mop": {
+        "ready": false,
+        "wait": null
+    },
+    "features": [],
+    "slug": "fe-21-1-f-kaohsiung-no-21-sanduo-4th-rd-lingya-district-kaohsiung-city"
+}, {
+    "recommendation": {},
+    "storeNumber": "33352-34000",
+    "id": "6179",
+    "name": "San Duo",
+    "phoneNumber": "886-7-338-4586",
+    "coordinates": {
+        "latitude": 22.61462,
+        "longitude": 120.306535
+    },
+    "regulations": [],
+    "address": {
+        "streetAddressLine1": "No. 234, Sanduo 3rd Rd, Lingya Dist",
+        "streetAddressLine2": "1-3F",
+        "streetAddressLine3": null,
+        "city": "Kaohsiung City",
+        "countrySubdivisionCode": "KHH",
+        "countryCode": "TW",
+        "postalCode": "802"
+    },
+    "timeZoneInfo": {
+        "currentTimeOffset": 480,
+        "windowsTimeZoneId": "Taipei Standard Time",
+        "olsonTimeZoneId": "GMT+08:00 Asia/Taipei"
+    },
+    "brandName": "Starbucks",
+    "ownershipTypeCode": "LS",
+    "open": null,
+    "openStatusText": "",
+    "addressLines": ["No. 234, Sanduo 3rd Rd, Lingya Dist", "1-3F", "Kaohsiung City, KHH 802"],
+    "mop": {
+        "ready": false,
+        "wait": null
+    },
+    "features": [],
+    "slug": "san-duo-no-234-sanduo-3rd-rd-lingya-dist-kaohsiung-city-kh"
+}, {
+    "recommendation": {},
+    "storeNumber": "33398-71788",
+    "id": "6177",
+    "name": "Guang Lin",
+    "phoneNumber": null,
+    "coordinates": {
+        "latitude": 22.626129,
+        "longitude": 120.316333
+    },
+    "regulations": [],
+    "address": {
+        "streetAddressLine1": "No. 149-1, Guangzhou 1st St, Lingya Dist",
+        "streetAddressLine2": "1-2F",
+        "streetAddressLine3": null,
+        "city": "Kaohsiung City",
+        "countrySubdivisionCode": "KHH",
+        "countryCode": "TW",
+        "postalCode": "802"
+    },
+    "timeZoneInfo": {
+        "currentTimeOffset": 480,
+        "windowsTimeZoneId": "Taipei Standard Time",
+        "olsonTimeZoneId": "GMT+08:00 Asia/Taipei"
+    },
+    "brandName": "Starbucks",
+    "ownershipTypeCode": "LS",
+    "open": null,
+    "openStatusText": "",
+    "addressLines": ["No. 149-1, Guangzhou 1st St, Lingya Dist", "1-2F", "Kaohsiung City, KHH 802"],
+    "mop": {
+        "ready": false,
+        "wait": null
+    },
+    "features": [],
+    "slug": "guang-lin-no-149-1-guangzhou-1st-st-lingya-dist-kaohsiung-ci"
+}, {
+    "recommendation": {},
+    "storeNumber": "33463-100307",
+    "id": "6268",
+    "name": "Love River",
+    "phoneNumber": null,
+    "coordinates": {
+        "latitude": 22.6336,
+        "longitude": 120.285872
+    },
+    "regulations": [],
+    "address": {
+        "streetAddressLine1": "No. 356, Hedong Rd., Sanmin District",
+        "streetAddressLine2": null,
+        "streetAddressLine3": null,
+        "city": "Kaohsiung City",
+        "countrySubdivisionCode": "KHH",
+        "countryCode": "TW",
+        "postalCode": "807"
+    },
+    "timeZoneInfo": {
+        "currentTimeOffset": 480,
+        "windowsTimeZoneId": "Taipei Standard Time",
+        "olsonTimeZoneId": "GMT+08:00 Asia/Taipei"
+    },
+    "brandName": "Starbucks",
+    "ownershipTypeCode": "LS",
+    "open": null,
+    "openStatusText": "",
+    "addressLines": ["No. 356, Hedong Rd., Sanmin District", "Kaohsiung City, KHH 807"],
+    "mop": {
+        "ready": false,
+        "wait": null
+    },
+    "features": [],
+    "slug": "love-river-no-356-hedong-rd-sanmin-district-kaohsiung-city-kh"
+}, {
+    "recommendation": {},
+    "storeNumber": "21719-214686",
+    "id": "1006146",
+    "name": "Zhongzheng Heping",
+    "phoneNumber": null,
+    "coordinates": {
+        "latitude": 22.609831,
+        "longitude": 120.306442
+    },
+    "regulations": [],
+    "address": {
+        "streetAddressLine1": "No.162, Zhongzheng 2nd Rd.",
+        "streetAddressLine2": "Xinxing Dist",
+        "streetAddressLine3": null,
+        "city": "Kaohsiung City",
+        "countrySubdivisionCode": "KHH",
+        "countryCode": "TW",
+        "postalCode": "80047"
+    },
+    "timeZoneInfo": {
+        "currentTimeOffset": 480,
+        "windowsTimeZoneId": "Taipei Standard Time",
+        "olsonTimeZoneId": "GMT+08:00 Asia/Taipei"
+    },
+    "brandName": "Starbucks",
+    "ownershipTypeCode": "LS",
+    "open": null,
+    "openStatusText": "",
+    "addressLines": ["No.162, Zhongzheng 2nd Rd.", "Xinxing Dist", "Kaohsiung City, KHH 80047"],
+    "mop": {
+        "ready": false,
+        "wait": null
+    },
+    "features": [],
+    "slug": "zhongzheng-heping-no-162-zhongzheng-2nd-rd-kaohsiung-city-khh-80047-"
+}, {
+    "recommendation": {},
+    "storeNumber": "33373-58740",
+    "id": "6180",
+    "name": "Shi Quan",
+    "phoneNumber": "(07) 311 6738",
+    "coordinates": {
+        "latitude": 22.638289,
+        "longitude": 120.317464
+    },
+    "regulations": [],
+    "address": {
+        "streetAddressLine1": "No. 183, Shchiuan 1st Rd, Sanmin Dist",
+        "streetAddressLine2": "1-2F",
+        "streetAddressLine3": null,
+        "city": "Kaohsiung City",
+        "countrySubdivisionCode": "KHH",
+        "countryCode": "TW",
+        "postalCode": "807"
+    },
+    "timeZoneInfo": {
+        "currentTimeOffset": 480,
+        "windowsTimeZoneId": "Taipei Standard Time",
+        "olsonTimeZoneId": "GMT+08:00 Asia/Taipei"
+    },
+    "brandName": "Starbucks",
+    "ownershipTypeCode": "LS",
+    "open": null,
+    "openStatusText": "",
+    "addressLines": ["No. 183, Shchiuan 1st Rd, Sanmin Dist", "1-2F", "Kaohsiung City, KHH 807"],
+    "mop": {
+        "ready": false,
+        "wait": null
+    },
+    "features": [],
+    "slug": "shi-quan-no-183-shchiuan-1st-rd-sanmin-dist-kaohsiung-city-"
+}, {
+    "recommendation": {},
+    "storeNumber": "32303-132924",
+    "id": "6247",
+    "name": "Dream Mall - Main Entrance 1F",
+    "phoneNumber": null,
+    "coordinates": {
+        "latitude": 22.608504,
+        "longitude": 120.303581
+    },
+    "regulations": [],
+    "address": {
+        "streetAddressLine1": "No. 789, Zhonghua 5th Road",
+        "streetAddressLine2": "Main Entrance, 1st Floor",
+        "streetAddressLine3": null,
+        "city": "Kaohsiung City",
+        "countrySubdivisionCode": "KHH",
+        "countryCode": "TW",
+        "postalCode": "806"
+    },
+    "timeZoneInfo": {
+        "currentTimeOffset": 480,
+        "windowsTimeZoneId": "Taipei Standard Time",
+        "olsonTimeZoneId": "GMT+08:00 Asia/Taipei"
+    },
+    "brandName": "Starbucks",
+    "ownershipTypeCode": "LS",
+    "open": null,
+    "openStatusText": "",
+    "addressLines": ["No. 789, Zhonghua 5th Road", "Main Entrance, 1st Floor", "Kaohsiung City, KHH 806"],
+    "mop": {
+        "ready": false,
+        "wait": null
+    },
+    "features": [],
+    "slug": "dream-mall-main-entrance-1-f-no-789-zhonghua-5th-road-kaohsiung-city-khh-806-tw"
+}, {
+    "recommendation": {},
+    "storeNumber": "52396-278225",
+    "id": "1021237",
+    "name": "Zhongzheng Hebei - Kaohsiung",
+    "phoneNumber": null,
+    "coordinates": {
+        "latitude": 22.629615,
+        "longitude": 120.323553
+    },
+    "regulations": [],
+    "address": {
+        "streetAddressLine1": "No.321, Zhongzheng 1st Rd.",
+        "streetAddressLine2": "Lingya Dist.",
+        "streetAddressLine3": null,
+        "city": "Kaohsiung",
+        "countrySubdivisionCode": "KHH",
+        "countryCode": "TW",
+        "postalCode": "80283"
+    },
+    "timeZoneInfo": {
+        "currentTimeOffset": 480,
+        "windowsTimeZoneId": "Taipei Standard Time",
+        "olsonTimeZoneId": "GMT+08:00 Asia/Taipei"
+    },
+    "brandName": "Starbucks",
+    "ownershipTypeCode": "LS",
+    "open": null,
+    "openStatusText": "",
+    "addressLines": ["No.321, Zhongzheng 1st Rd.", "Lingya Dist.", "Kaohsiung, KHH 80283"],
+    "mop": {
+        "ready": false,
+        "wait": null
+    },
+    "features": [{
+        "code": "DT",
+        "name": "Drive-Thru"
+    }],
+    "slug": "zhongzheng-hebei-kaohsiung-no-321-zhongzheng-1st-rd-kaohsiung-khh-80283-tw"
+}, {
+    "recommendation": {},
+    "storeNumber": "54729-283284",
+    "id": "1022556",
+    "name": "Jiuru Liming - Kaohsiung",
+    "phoneNumber": null,
+    "coordinates": {
+        "latitude": 22.639493,
+        "longitude": 120.325772
+    },
+    "regulations": [],
+    "address": {
+        "streetAddressLine1": "No.562, Jiuru 1st Rd.",
+        "streetAddressLine2": "Sanmin Dist.",
+        "streetAddressLine3": null,
+        "city": "Kaohsiung",
+        "countrySubdivisionCode": "KHH",
+        "countryCode": "TW",
+        "postalCode": "80765"
+    },
+    "timeZoneInfo": {
+        "currentTimeOffset": 480,
+        "windowsTimeZoneId": "Taipei Standard Time",
+        "olsonTimeZoneId": "GMT+08:00 Asia/Taipei"
+    },
+    "brandName": "Starbucks",
+    "ownershipTypeCode": "LS",
+    "open": null,
+    "openStatusText": "",
+    "addressLines": ["No.562, Jiuru 1st Rd.", "Sanmin Dist.", "Kaohsiung, KHH 80765"],
+    "mop": {
+        "ready": false,
+        "wait": null
+    },
+    "features": [{
+        "code": "DT",
+        "name": "Drive-Thru"
+    }],
+    "slug": "jiuru-liming-kaohsiung-no-562-jiuru-1st-rd-kaohsiung-khh-80765-tw"
+}, {
+    "recommendation": {},
+    "storeNumber": "24044-235348",
+    "id": "1009703",
+    "name": "Qinghai Meishu",
+    "phoneNumber": null,
+    "coordinates": {
+        "latitude": 22.651822,
+        "longitude": 120.287652
+    },
+    "regulations": [],
+    "address": {
+        "streetAddressLine1": "Meishu E. 2nd Rd.",
+        "streetAddressLine2": "Gushan Dist.",
+        "streetAddressLine3": null,
+        "city": "Kaohsiung City",
+        "countrySubdivisionCode": "KHH",
+        "countryCode": "TW",
+        "postalCode": "80460"
+    },
+    "timeZoneInfo": {
+        "currentTimeOffset": 480,
+        "windowsTimeZoneId": "Taipei Standard Time",
+        "olsonTimeZoneId": "GMT+08:00 Asia/Taipei"
+    },
+    "brandName": "Starbucks",
+    "ownershipTypeCode": "LS",
+    "open": null,
+    "openStatusText": "",
+    "addressLines": ["Meishu E. 2nd Rd.", "Gushan Dist.", "Kaohsiung City, KHH 80460"],
+    "mop": {
+        "ready": false,
+        "wait": null
+    },
+    "features": [],
+    "slug": "qinghai-meishu-meishu-e-2nd-rd-kaohsiung-city-khh-80460-tw"
+}, {
+    "recommendation": {},
+    "storeNumber": "18829-187945",
+    "id": "1005406",
+    "name": "Dashun Fumin",
+    "phoneNumber": null,
+    "coordinates": {
+        "latitude": 22.656679,
+        "longitude": 120.305199
+    },
+    "regulations": [],
+    "address": {
+        "streetAddressLine1": "Dashun 1st Rd.,&Fumin Rd.",
+        "streetAddressLine2": "Zuoying District",
+        "streetAddressLine3": null,
+        "city": "Kaohsiung",
+        "countrySubdivisionCode": "KHH",
+        "countryCode": "TW",
+        "postalCode": "813"
+    },
+    "timeZoneInfo": {
+        "currentTimeOffset": 480,
+        "windowsTimeZoneId": "Taipei Standard Time",
+        "olsonTimeZoneId": "GMT+08:00 Asia/Taipei"
+    },
+    "brandName": "Starbucks",
+    "ownershipTypeCode": "LS",
+    "open": null,
+    "openStatusText": "",
+    "addressLines": ["Dashun 1st Rd.,&Fumin Rd.", "Zuoying District", "Kaohsiung, KHH 813"],
+    "mop": {
+        "ready": false,
+        "wait": null
+    },
+    "features": [],
+    "slug": "dashun-fumin-dashun-1st-rd-fumin-rd-kaohsiung-khh-813-tw"
+}, {
+    "recommendation": {},
+    "storeNumber": "18270-189544",
+    "id": "92697",
+    "name": "Xi Zi Bay",
+    "phoneNumber": null,
+    "coordinates": {
+        "latitude": 22.618764,
+        "longitude": 120.268945
+    },
+    "regulations": [],
+    "address": {
+        "streetAddressLine1": "No.14, Shaochuan St.",
+        "streetAddressLine2": "Gushan Dist",
+        "streetAddressLine3": null,
+        "city": "Kaohsiung City",
+        "countrySubdivisionCode": "KHH",
+        "countryCode": "TW",
+        "postalCode": "80441"
+    },
+    "timeZoneInfo": {
+        "currentTimeOffset": 480,
+        "windowsTimeZoneId": "Taipei Standard Time",
+        "olsonTimeZoneId": "GMT+08:00 Asia/Taipei"
+    },
+    "brandName": "Starbucks",
+    "ownershipTypeCode": "LS",
+    "open": null,
+    "openStatusText": "",
+    "addressLines": ["No.14, Shaochuan St.", "Gushan Dist", "Kaohsiung City, KHH 80441"],
+    "mop": {
+        "ready": false,
+        "wait": null
+    },
+    "features": [],
+    "slug": "xi-zi-bay-no-14-shaochuan-st-kaohsiung-city-khh-80441-tw"
+}, {
+    "recommendation": {},
+    "storeNumber": "58119-292252",
+    "id": "1025643",
+    "name": "JOY PLAZA 1F",
+    "phoneNumber": null,
+    "coordinates": {
+        "latitude": 22.655874,
+        "longitude": 120.315124
+    },
+    "regulations": [],
+    "address": {
+        "streetAddressLine1": "1F., No.427, Minzu 1st Rd.",
+        "streetAddressLine2": "Sanmin Dist.",
+        "streetAddressLine3": null,
+        "city": "Kaohsiung City",
+        "countrySubdivisionCode": "KHH",
+        "countryCode": "TW",
+        "postalCode": "80794"
+    },
+    "timeZoneInfo": {
+        "currentTimeOffset": 480,
+        "windowsTimeZoneId": "Taipei Standard Time",
+        "olsonTimeZoneId": "GMT+08:00 Asia/Taipei"
+    },
+    "brandName": "Starbucks",
+    "ownershipTypeCode": "LS",
+    "open": null,
+    "openStatusText": "",
+    "addressLines": ["1F., No.427, Minzu 1st Rd.", "Sanmin Dist.", "Kaohsiung City, KHH 80794"],
+    "mop": {
+        "ready": false,
+        "wait": null
+    },
+    "features": [],
+    "slug": "joy-plaza-1-f-1-f-no-427-minzu-1st-rd-kaohsiung-city-khh-80794-t"
+}, {
+    "recommendation": {},
+    "storeNumber": "24046-235347",
+    "id": "1009705",
+    "name": "Uni president-4F-Kaohsiung",
+    "phoneNumber": null,
+    "coordinates": {
+        "latitude": 22.595642,
+        "longitude": 120.308556
+    },
+    "regulations": [],
+    "address": {
+        "streetAddressLine1": "No.789, Zhonghua 5th Rd.",
+        "streetAddressLine2": "Qianzhen Dist.",
+        "streetAddressLine3": null,
+        "city": "Kaohsiung City",
+        "countrySubdivisionCode": "KHH",
+        "countryCode": "TW",
+        "postalCode": "80661"
+    },
+    "timeZoneInfo": {
+        "currentTimeOffset": 480,
+        "windowsTimeZoneId": "Taipei Standard Time",
+        "olsonTimeZoneId": "GMT+08:00 Asia/Taipei"
+    },
+    "brandName": "Starbucks",
+    "ownershipTypeCode": "LS",
+    "open": null,
+    "openStatusText": "",
+    "addressLines": ["No.789, Zhonghua 5th Rd.", "Qianzhen Dist.", "Kaohsiung City, KHH 80661"],
+    "mop": {
+        "ready": false,
+        "wait": null
+    },
+    "features": [],
+    "slug": "uni-president-4-f-kaohsiung-no-789-zhonghua-5th-rd-kaohsiung-city-khh-80661-tw"
+}, {
+    "recommendation": {},
+    "storeNumber": "32621-134868",
+    "id": "6240",
+    "name": "Hanshin Dept Store-Bao Ai-E2F",
+    "phoneNumber": null,
+    "coordinates": {
+        "latitude": 22.660366,
+        "longitude": 120.303149
+    },
+    "regulations": [],
+    "address": {
+        "streetAddressLine1": "Bao Ai 2nd Rd",
+        "streetAddressLine2": "E 2F",
+        "streetAddressLine3": null,
+        "city": "Kaohsiung City",
+        "countrySubdivisionCode": "KHH",
+        "countryCode": "TW",
+        "postalCode": "813"
+    },
+    "timeZoneInfo": {
+        "currentTimeOffset": 480,
+        "windowsTimeZoneId": "Taipei Standard Time",
+        "olsonTimeZoneId": "GMT+08:00 Asia/Taipei"
+    },
+    "brandName": "Starbucks",
+    "ownershipTypeCode": "LS",
+    "open": null,
+    "openStatusText": "",
+    "addressLines": ["Bao Ai 2nd Rd", "E 2F", "Kaohsiung City, KHH 813"],
+    "mop": {
+        "ready": false,
+        "wait": null
+    },
+    "features": [],
+    "slug": "hanshin-dept-store-bao-ai-e-2-f-bao-ai-2nd-rd-kaohsiung-city-khh-813-tw"
+}, {
+    "recommendation": {},
+    "storeNumber": "49699-270805",
+    "id": "1017072",
+    "name": "Ruilong - Kaohsiung",
+    "phoneNumber": null,
+    "coordinates": {
+        "latitude": 22.605449,
+        "longitude": 120.329493
+    },
+    "regulations": [],
+    "address": {
+        "streetAddressLine1": "No.438, Ruilong Rd.",
+        "streetAddressLine2": "Qianzhen Dist.",
+        "streetAddressLine3": null,
+        "city": "Kaohsiung City",
+        "countrySubdivisionCode": "KHH",
+        "countryCode": "TW",
+        "postalCode": "80645"
+    },
+    "timeZoneInfo": {
+        "currentTimeOffset": 480,
+        "windowsTimeZoneId": "Taipei Standard Time",
+        "olsonTimeZoneId": "GMT+08:00 Asia/Taipei"
+    },
+    "brandName": "Starbucks",
+    "ownershipTypeCode": "LS",
+    "open": null,
+    "openStatusText": "",
+    "addressLines": ["No.438, Ruilong Rd.", "Qianzhen Dist.", "Kaohsiung City, KHH 80645"],
+    "mop": {
+        "ready": false,
+        "wait": null
+    },
+    "features": [],
+    "slug": "ruilong-kaohsiung-no-438-ruilong-rd-kaohsiung-city-khh-80645-tw"
+}, {
+    "recommendation": {},
+    "storeNumber": "30859-102550",
+    "id": "6277",
+    "name": "Ming Cheng",
+    "phoneNumber": null,
+    "coordinates": {
+        "latitude": 22.660079,
+        "longitude": 120.313298
+    },
+    "regulations": [],
+    "address": {
+        "streetAddressLine1": "No. 72, Mingcheng 2nd Rd.",
+        "streetAddressLine2": "1F",
+        "streetAddressLine3": null,
+        "city": "Kaohsiung City",
+        "countrySubdivisionCode": "KHH",
+        "countryCode": "TW",
+        "postalCode": "807"
+    },
+    "timeZoneInfo": {
+        "currentTimeOffset": 480,
+        "windowsTimeZoneId": "Taipei Standard Time",
+        "olsonTimeZoneId": "GMT+08:00 Asia/Taipei"
+    },
+    "brandName": "Starbucks",
+    "ownershipTypeCode": "LS",
+    "open": null,
+    "openStatusText": "",
+    "addressLines": ["No. 72, Mingcheng 2nd Rd.", "1F", "Kaohsiung City, KHH 807"],
+    "mop": {
+        "ready": false,
+        "wait": null
+    },
+    "features": [],
+    "slug": "ming-cheng-no-72-mingcheng-2nd-rd-kaohsiung-city-khh-807-tw"
+}, {
+    "recommendation": {},
+    "storeNumber": "3549-140616",
+    "id": "6295",
+    "name": "Mingcheng Minglun",
+    "phoneNumber": null,
+    "coordinates": {
+        "latitude": 22.659731,
+        "longitude": 120.317147
+    },
+    "regulations": [],
+    "address": {
+        "streetAddressLine1": "Mingcheng 3rd Rd. & Minglun Rd.",
+        "streetAddressLine2": null,
+        "streetAddressLine3": null,
+        "city": "Kaohsiung City",
+        "countrySubdivisionCode": "KHH",
+        "countryCode": "TW",
+        "postalCode": "804"
+    },
+    "timeZoneInfo": {
+        "currentTimeOffset": 480,
+        "windowsTimeZoneId": "Taipei Standard Time",
+        "olsonTimeZoneId": "GMT+08:00 Asia/Taipei"
+    },
+    "brandName": "Starbucks",
+    "ownershipTypeCode": "LS",
+    "open": null,
+    "openStatusText": "",
+    "addressLines": ["Mingcheng 3rd Rd. & Minglun Rd.", "Kaohsiung City, KHH 804"],
+    "mop": {
+        "ready": false,
+        "wait": null
+    },
+    "features": [],
+    "slug": "mingcheng-minglun-mingcheng-3rd-rd-minglun-rd-kaohsiung-city-khh-804"
+}, {
+    "recommendation": {},
+    "storeNumber": "31116-105171",
+    "id": "6251",
+    "name": "Yu Cheng",
+    "phoneNumber": null,
+    "coordinates": {
+        "latitude": 22.665267,
+        "longitude": 120.307747
+    },
+    "regulations": [],
+    "address": {
+        "streetAddressLine1": "Yucheng Road",
+        "streetAddressLine2": null,
+        "streetAddressLine3": null,
+        "city": "Kaohsiung City",
+        "countrySubdivisionCode": "KHH",
+        "countryCode": "TW",
+        "postalCode": "813"
+    },
+    "timeZoneInfo": {
+        "currentTimeOffset": 480,
+        "windowsTimeZoneId": "Taipei Standard Time",
+        "olsonTimeZoneId": "GMT+08:00 Asia/Taipei"
+    },
+    "brandName": "Starbucks",
+    "ownershipTypeCode": "LS",
+    "open": null,
+    "openStatusText": "",
+    "addressLines": ["Yucheng Road", "Kaohsiung City, KHH 813"],
+    "mop": {
+        "ready": false,
+        "wait": null
+    },
+    "features": [],
+    "slug": "yu-cheng-yucheng-road-kaohsiung-city-khh-813-tw"
+}, {
+    "recommendation": {},
+    "storeNumber": "9130-148505",
+    "id": "18990",
+    "name": "Mingcheng Meishu",
+    "phoneNumber": null,
+    "coordinates": {
+        "latitude": 22.659808,
+        "longitude": 120.328345
+    },
+    "regulations": [],
+    "address": {
+        "streetAddressLine1": "No. 118, Mingcheng 4th Rd",
+        "streetAddressLine2": null,
+        "streetAddressLine3": null,
+        "city": "Kaohsiung City",
+        "countrySubdivisionCode": "KHH",
+        "countryCode": "TW",
+        "postalCode": "804"
+    },
+    "timeZoneInfo": {
+        "currentTimeOffset": 480,
+        "windowsTimeZoneId": "Taipei Standard Time",
+        "olsonTimeZoneId": "GMT+08:00 Asia/Taipei"
+    },
+    "brandName": "Starbucks",
+    "ownershipTypeCode": "LS",
+    "open": null,
+    "openStatusText": "",
+    "addressLines": ["No. 118, Mingcheng 4th Rd", "Kaohsiung City, KHH 804"],
+    "mop": {
+        "ready": false,
+        "wait": null
+    },
+    "features": [],
+    "slug": "mingcheng-meishu-no-118-mingcheng-4th-rd-kaohsiung-city-khh-804-tw"
+}, {
+    "recommendation": {},
+    "storeNumber": "14923-155030",
+    "id": "69518",
+    "name": "Chengqing Wenheng",
+    "phoneNumber": null,
+    "coordinates": {
+        "latitude": 22.640035,
+        "longitude": 120.344588
+    },
+    "regulations": [],
+    "address": {
+        "streetAddressLine1": "Chengqing Rd & Wenheng Rd, Sanmin Dist",
+        "streetAddressLine2": null,
+        "streetAddressLine3": null,
+        "city": "Kaohsiung City",
+        "countrySubdivisionCode": "KHH",
+        "countryCode": "TW",
+        "postalCode": "807"
+    },
+    "timeZoneInfo": {
+        "currentTimeOffset": 480,
+        "windowsTimeZoneId": "Taipei Standard Time",
+        "olsonTimeZoneId": "GMT+08:00 Asia/Taipei"
+    },
+    "brandName": "Starbucks",
+    "ownershipTypeCode": "LS",
+    "open": null,
+    "openStatusText": "",
+    "addressLines": ["Chengqing Rd & Wenheng Rd, Sanmin Dist", "Kaohsiung City, KHH 807"],
+    "mop": {
+        "ready": false,
+        "wait": null
+    },
+    "features": [],
+    "slug": "chengqing-wenheng-chengqing-rd-wenheng-rd-sanmin-dist-kaohsiung-city"
+}, {
+    "recommendation": {},
+    "storeNumber": "50768-276265",
+    "id": "1017705",
+    "name": "Hanshin Arena B1F- Kaohsiung",
+    "phoneNumber": null,
+    "coordinates": {
+        "latitude": 22.669374,
+        "longitude": 120.302947
+    },
+    "regulations": [],
+    "address": {
+        "streetAddressLine1": "B1F., No.777, Boai 2nd Rd.,Zuoying Dist.",
+        "streetAddressLine2": null,
+        "streetAddressLine3": null,
+        "city": "Kaohsiung",
+        "countrySubdivisionCode": "KHH",
+        "countryCode": "TW",
+        "postalCode": "81355"
+    },
+    "timeZoneInfo": {
+        "currentTimeOffset": 480,
+        "windowsTimeZoneId": "Taipei Standard Time",
+        "olsonTimeZoneId": "GMT+08:00 Asia/Taipei"
+    },
+    "brandName": "Starbucks",
+    "ownershipTypeCode": "LS",
+    "open": null,
+    "openStatusText": "",
+    "addressLines": ["B1F., No.777, Boai 2nd Rd.,Zuoying Dist.", "Kaohsiung, KHH 81355"],
+    "mop": {
+        "ready": false,
+        "wait": null
+    },
+    "features": [],
+    "slug": "hanshin-arena-b-1-f-kaohsiung-b-1-f-no-777-boai-2nd-rd-zuoying-dist-kaohsiung-kh"
+}, {
+    "recommendation": {},
+    "storeNumber": "33403-83961",
+    "id": "6155",
+    "name": "TSMC #2",
+    "phoneNumber": null,
+    "coordinates": {
+        "latitude": 22.60944,
+        "longitude": 120.343555
+    },
+    "regulations": [],
+    "address": {
+        "streetAddressLine1": "No. 9, Yanshin 1st Rd.",
+        "streetAddressLine2": "1F",
+        "streetAddressLine3": null,
+        "city": "Hsinchu City",
+        "countrySubdivisionCode": "HSZ",
+        "countryCode": "TW",
+        "postalCode": "300"
+    },
+    "timeZoneInfo": {
+        "currentTimeOffset": 480,
+        "windowsTimeZoneId": "Taipei Standard Time",
+        "olsonTimeZoneId": "GMT+08:00 Asia/Taipei"
+    },
+    "brandName": "Starbucks",
+    "ownershipTypeCode": "LS",
+    "open": null,
+    "openStatusText": "",
+    "addressLines": ["No. 9, Yanshin 1st Rd.", "1F", "Hsinchu City, HSZ 300"],
+    "mop": {
+        "ready": false,
+        "wait": null
+    },
+    "features": [],
+    "slug": "tsmc-2-no-9-yanshin-1st-rd-hsinchu-city-hsz-300-tw"
+}, {
+    "recommendation": {},
+    "storeNumber": "55577-286554",
+    "id": "1024417",
+    "name": "Benguan Niaosong - Kaohsiung",
+    "phoneNumber": null,
+    "coordinates": {
+        "latitude": 22.651005,
+        "longitude": 120.341863
+    },
+    "regulations": [],
+    "address": {
+        "streetAddressLine1": "No.211, Benguan Rd.",
+        "streetAddressLine2": "Niaosong Dist.",
+        "streetAddressLine3": null,
+        "city": "Kaohsiung",
+        "countrySubdivisionCode": "KHH",
+        "countryCode": "TW",
+        "postalCode": "83347"
+    },
+    "timeZoneInfo": {
+        "currentTimeOffset": 480,
+        "windowsTimeZoneId": "Taipei Standard Time",
+        "olsonTimeZoneId": "GMT+08:00 Asia/Taipei"
+    },
+    "brandName": "Starbucks",
+    "ownershipTypeCode": "LS",
+    "open": null,
+    "openStatusText": "",
+    "addressLines": ["No.211, Benguan Rd.", "Niaosong Dist.", "Kaohsiung, KHH 83347"],
+    "mop": {
+        "ready": false,
+        "wait": null
+    },
+    "features": [{
+        "code": "DT",
+        "name": "Drive-Thru"
+    }],
+    "slug": "benguan-niaosong-kaohsiung-no-211-benguan-rd-kaohsiung-khh-83347-tw"
+}, {
+    "recommendation": {},
+    "storeNumber": "55561-285640",
+    "id": "1026684",
+    "name": "Fengshan Jianguo - Kaohsiug",
+    "phoneNumber": null,
+    "coordinates": {
+        "latitude": 22.637887,
+        "longitude": 120.349317
+    },
+    "regulations": [],
+    "address": {
+        "streetAddressLine1": "Sec. 3, Jianguo Rd., Fengshan Dist.",
+        "streetAddressLine2": null,
+        "streetAddressLine3": null,
+        "city": "Kaohsiung",
+        "countrySubdivisionCode": "KHH",
+        "countryCode": "TW",
+        "postalCode": "83048"
+    },
+    "timeZoneInfo": {
+        "currentTimeOffset": 480,
+        "windowsTimeZoneId": "Taipei Standard Time",
+        "olsonTimeZoneId": "GMT+08:00 Asia/Taipei"
+    },
+    "brandName": "Starbucks",
+    "ownershipTypeCode": "LS",
+    "open": null,
+    "openStatusText": "",
+    "addressLines": ["Sec. 3, Jianguo Rd., Fengshan Dist.", "Kaohsiung, KHH 83048"],
+    "mop": {
+        "ready": false,
+        "wait": null
+    },
+    "features": [{
+        "code": "DT",
+        "name": "Drive-Thru"
+    }],
+    "slug": "fengshan-jianguo-kaohsiug-sec-3-jianguo-rd-fengshan-dist-kaohsiung-khh-83048"
+}, {
+    "recommendation": {},
+    "storeNumber": "16589-155031",
+    "id": "89006",
+    "name": "Boai-Kaohsiung",
+    "phoneNumber": null,
+    "coordinates": {
+        "latitude": 22.6736,
+        "longitude": 120.304948
+    },
+    "regulations": [],
+    "address": {
+        "streetAddressLine1": "No. 82, Boai 3rd Road, Zuoying District",
+        "streetAddressLine2": null,
+        "streetAddressLine3": null,
+        "city": "Kaohsiung City",
+        "countrySubdivisionCode": "KHH",
+        "countryCode": "TW",
+        "postalCode": "81367"
+    },
+    "timeZoneInfo": {
+        "currentTimeOffset": 480,
+        "windowsTimeZoneId": "Taipei Standard Time",
+        "olsonTimeZoneId": "GMT+08:00 Asia/Taipei"
+    },
+    "brandName": "Starbucks",
+    "ownershipTypeCode": "LS",
+    "open": null,
+    "openStatusText": "",
+    "addressLines": ["No. 82, Boai 3rd Road, Zuoying District", "Kaohsiung City, KHH 81367"],
+    "mop": {
+        "ready": false,
+        "wait": null
+    },
+    "features": [],
+    "slug": "boai-kaohsiung-no-82-boai-3rd-road-zuoying-district-kaohsiung-cit"
+}, {
+    "recommendation": {},
+    "storeNumber": "47337-257776",
+    "id": "1014666",
+    "name": "Guangyuan-Fengshan",
+    "phoneNumber": null,
+    "coordinates": {
+        "latitude": 22.62619,
+        "longitude": 120.35718
+    },
+    "regulations": [],
+    "address": {
+        "streetAddressLine1": "No.396, Guangyuan Rd.",
+        "streetAddressLine2": "Fengshan Dist.",
+        "streetAddressLine3": null,
+        "city": "Kaohsiung City",
+        "countrySubdivisionCode": "TXG",
+        "countryCode": "TW",
+        "postalCode": "83057"
+    },
+    "timeZoneInfo": {
+        "currentTimeOffset": 480,
+        "windowsTimeZoneId": "Taipei Standard Time",
+        "olsonTimeZoneId": "GMT+08:00 Asia/Taipei"
+    },
+    "brandName": "Starbucks",
+    "ownershipTypeCode": "LS",
+    "open": null,
+    "openStatusText": "",
+    "addressLines": ["No.396, Guangyuan Rd.", "Fengshan Dist.", "Kaohsiung City, TXG 83057"],
+    "mop": {
+        "ready": false,
+        "wait": null
+    },
+    "features": [],
+    "slug": "guangyuan-fengshan-no-396-guangyuan-rd-kaohsiung-city-txg-83057-tw"
+}, {
+    "recommendation": {},
+    "storeNumber": "55469-289340",
+    "id": "1021893",
+    "name": "Kaohsiung VG Hospital - Clinic 1F",
+    "phoneNumber": null,
+    "coordinates": {
+        "latitude": 22.679143,
+        "longitude": 120.322378
+    },
+    "regulations": [],
+    "address": {
+        "streetAddressLine1": "No.386, Dazhong 1st Rd.",
+        "streetAddressLine2": "Zuoying Dist.",
+        "streetAddressLine3": null,
+        "city": "Kaohsiung",
+        "countrySubdivisionCode": "KHH",
+        "countryCode": "TW",
+        "postalCode": "81362"
+    },
+    "timeZoneInfo": {
+        "currentTimeOffset": 480,
+        "windowsTimeZoneId": "Taipei Standard Time",
+        "olsonTimeZoneId": "GMT+08:00 Asia/Taipei"
+    },
+    "brandName": "Starbucks",
+    "ownershipTypeCode": "LS",
+    "open": null,
+    "openStatusText": "",
+    "addressLines": ["No.386, Dazhong 1st Rd.", "Zuoying Dist.", "Kaohsiung, KHH 81362"],
+    "mop": {
+        "ready": false,
+        "wait": null
+    },
+    "features": [],
+    "slug": "kaohsiung-vg-hospital-clinic-1-f-no-386-dazhong-1st-rd-kaohsiung-khh-81362-tw"
+}, {
+    "recommendation": {},
+    "storeNumber": "58401-292596",
+    "id": "1024728",
+    "name": "Global Mall Zuoying - Kaohsiung",
+    "phoneNumber": null,
+    "coordinates": {
+        "latitude": 22.687675,
+        "longitude": 120.306962
+    },
+    "regulations": [],
+    "address": {
+        "streetAddressLine1": "No.1, Zhanqian N. Rd.",
+        "streetAddressLine2": "Zuoying Dist.",
+        "streetAddressLine3": null,
+        "city": "Kaohsiung City",
+        "countrySubdivisionCode": "KHH",
+        "countryCode": "TW",
+        "postalCode": "81354"
+    },
+    "timeZoneInfo": {
+        "currentTimeOffset": 480,
+        "windowsTimeZoneId": "Taipei Standard Time",
+        "olsonTimeZoneId": "GMT+08:00 Asia/Taipei"
+    },
+    "brandName": "Starbucks",
+    "ownershipTypeCode": "LS",
+    "open": null,
+    "openStatusText": "",
+    "addressLines": ["No.1, Zhanqian N. Rd.", "Zuoying Dist.", "Kaohsiung City, KHH 81354"],
+    "mop": {
+        "ready": false,
+        "wait": null
+    },
+    "features": [],
+    "slug": "global-mall-zuoying-kaohsiung-no-1-zhanqian-n-rd-kaohsiung-city-khh-81354-tw"
+}, {
+    "recommendation": {},
+    "storeNumber": "24965-237906",
+    "id": "1010446",
+    "name": "SKM Zuoying-1F",
+    "phoneNumber": null,
+    "coordinates": {
+        "latitude": 22.689541,
+        "longitude": 120.310852
+    },
+    "regulations": [],
+    "address": {
+        "streetAddressLine1": "1F, No.123, Gaotie Rd.",
+        "streetAddressLine2": "Zuoying Dist.",
+        "streetAddressLine3": null,
+        "city": "Kaohsiung City",
+        "countrySubdivisionCode": "KHH",
+        "countryCode": "TW",
+        "postalCode": "81361"
+    },
+    "timeZoneInfo": {
+        "currentTimeOffset": 480,
+        "windowsTimeZoneId": "Taipei Standard Time",
+        "olsonTimeZoneId": "GMT+08:00 Asia/Taipei"
+    },
+    "brandName": "Starbucks",
+    "ownershipTypeCode": "LS",
+    "open": null,
+    "openStatusText": "",
+    "addressLines": ["1F, No.123, Gaotie Rd.", "Zuoying Dist.", "Kaohsiung City, KHH 81361"],
+    "mop": {
+        "ready": false,
+        "wait": null
+    },
+    "features": [],
+    "slug": "skm-zuoying-1-f-1-f-no-123-gaotie-rd-kaohsiung-city-khh-81361-tw"
+}, {
+    "recommendation": {},
+    "storeNumber": "17506-182488",
+    "id": "1005403",
+    "name": "CGM Hospital-Kaohsiung-2F",
+    "phoneNumber": null,
+    "coordinates": {
+        "latitude": 22.66428,
+        "longitude": 120.360352
+    },
+    "regulations": [],
+    "address": {
+        "streetAddressLine1": "No.123, Dapi Rd. 2F",
+        "streetAddressLine2": "Niaosong District",
+        "streetAddressLine3": null,
+        "city": "Kaohsiung City",
+        "countrySubdivisionCode": "KHH",
+        "countryCode": "TW",
+        "postalCode": "833"
+    },
+    "timeZoneInfo": {
+        "currentTimeOffset": 480,
+        "windowsTimeZoneId": "Taipei Standard Time",
+        "olsonTimeZoneId": "GMT+08:00 Asia/Taipei"
+    },
+    "brandName": "Starbucks",
+    "ownershipTypeCode": "LS",
+    "open": null,
+    "openStatusText": "",
+    "addressLines": ["No.123, Dapi Rd. 2F", "Niaosong District", "Kaohsiung City, KHH 833"],
+    "mop": {
+        "ready": false,
+        "wait": null
+    },
+    "features": [],
+    "slug": "cgm-hospital-kaohsiung-2-f-no-123-dapi-rd-2-f-kaohsiung-city-khh-833-tw"
+}, {
+    "recommendation": {},
+    "storeNumber": "27099-246785",
+    "id": "1013481",
+    "name": "KHH Kaohsiung Intl Airport-1F",
+    "phoneNumber": null,
+    "coordinates": {
+        "latitude": 22.56978,
+        "longitude": 120.346718
+    },
+    "regulations": [],
+    "address": {
+        "streetAddressLine1": "No.2, Jhongshan 4th Rd,",
+        "streetAddressLine2": "Siaogang District",
+        "streetAddressLine3": null,
+        "city": "Kaohsiung City",
+        "countrySubdivisionCode": "KHH",
+        "countryCode": "TW",
+        "postalCode": "81252"
+    },
+    "timeZoneInfo": {
+        "currentTimeOffset": 480,
+        "windowsTimeZoneId": "Taipei Standard Time",
+        "olsonTimeZoneId": "GMT+08:00 Asia/Taipei"
+    },
+    "brandName": "Starbucks",
+    "ownershipTypeCode": "LS",
+    "open": null,
+    "openStatusText": "",
+    "addressLines": ["No.2, Jhongshan 4th Rd,", "Siaogang District", "Kaohsiung City, KHH 81252"],
+    "mop": {
+        "ready": false,
+        "wait": null
+    },
+    "features": [],
+    "slug": "khh-kaohsiung-intl-airport-1-f-no-2-jhongshan-4th-rd-kaohsiung-city-khh-81252-tw"
+}, {
+    "recommendation": {},
+    "storeNumber": "25919-243004",
+    "id": "1013324",
+    "name": "ASE K23_1F-Kaohsiung",
+    "phoneNumber": null,
+    "coordinates": {
+        "latitude": 22.71982,
+        "longitude": 120.299362
+    },
+    "regulations": [],
+    "address": {
+        "streetAddressLine1": "1F., No.66, Yanfa. Rd.",
+        "streetAddressLine2": "Nanzi  Dist",
+        "streetAddressLine3": null,
+        "city": "Kaohsiung City",
+        "countrySubdivisionCode": "KHH",
+        "countryCode": "TW",
+        "postalCode": "81156"
+    },
+    "timeZoneInfo": {
+        "currentTimeOffset": 480,
+        "windowsTimeZoneId": "Taipei Standard Time",
+        "olsonTimeZoneId": "GMT+08:00 Asia/Taipei"
+    },
+    "brandName": "Starbucks",
+    "ownershipTypeCode": "LS",
+    "open": null,
+    "openStatusText": "",
+    "addressLines": ["1F., No.66, Yanfa. Rd.", "Nanzi  Dist", "Kaohsiung City, KHH 81156"],
+    "mop": {
+        "ready": false,
+        "wait": null
+    },
+    "features": [],
+    "slug": "ase-k-23-1-f-kaohsiung-1-f-no-66-yanfa-rd-kaohsiung-city-khh-81156-tw"
+}, {
+    "recommendation": {},
+    "storeNumber": "47497-257775",
+    "id": "1016944",
+    "name": "Demin-Nanzi",
+    "phoneNumber": null,
+    "coordinates": {
+        "latitude": 22.72167,
+        "longitude": 120.29102
+    },
+    "regulations": [],
+    "address": {
+        "streetAddressLine1": "No.828, Demin Rd.",
+        "streetAddressLine2": "Nanzi Dist.",
+        "streetAddressLine3": null,
+        "city": "Kaohsiung City",
+        "countrySubdivisionCode": "KHH",
+        "countryCode": "TW",
+        "postalCode": "81168"
+    },
+    "timeZoneInfo": {
+        "currentTimeOffset": 480,
+        "windowsTimeZoneId": "Taipei Standard Time",
+        "olsonTimeZoneId": "GMT+08:00 Asia/Taipei"
+    },
+    "brandName": "Starbucks",
+    "ownershipTypeCode": "LS",
+    "open": null,
+    "openStatusText": "",
+    "addressLines": ["No.828, Demin Rd.", "Nanzi Dist.", "Kaohsiung City, KHH 81168"],
+    "mop": {
+        "ready": false,
+        "wait": null
+    },
+    "features": [],
+    "slug": "demin-nanzi-no-828-demin-rd-kaohsiung-city-khh-81168-tw"
+}, {
+    "recommendation": {},
+    "storeNumber": "50816-276497",
+    "id": "1018020",
+    "name": "Nanzi - Kaohsiung",
+    "phoneNumber": null,
+    "coordinates": {
+        "latitude": 22.727859,
+        "longitude": 120.325558
+    },
+    "regulations": [],
+    "address": {
+        "streetAddressLine1": "No.225, Nanzixin Rd., Nanzi Dist.",
+        "streetAddressLine2": null,
+        "streetAddressLine3": null,
+        "city": "Kaohsiung",
+        "countrySubdivisionCode": "KHH",
+        "countryCode": "TW",
+        "postalCode": "81166"
+    },
+    "timeZoneInfo": {
+        "currentTimeOffset": 480,
+        "windowsTimeZoneId": "Taipei Standard Time",
+        "olsonTimeZoneId": "GMT+08:00 Asia/Taipei"
+    },
+    "brandName": "Starbucks",
+    "ownershipTypeCode": "LS",
+    "open": null,
+    "openStatusText": "",
+    "addressLines": ["No.225, Nanzixin Rd., Nanzi Dist.", "Kaohsiung, KHH 81166"],
+    "mop": {
+        "ready": false,
+        "wait": null
+    },
+    "features": [],
+    "slug": "nanzi-kaohsiung-no-225-nanzixin-rd-nanzi-dist-kaohsiung-khh-81166-"
+}, {
+    "recommendation": {},
+    "storeNumber": "24557-238285",
+    "id": "1010386",
+    "name": "Gangshan - Kaohsiung",
+    "phoneNumber": null,
+    "coordinates": {
+        "latitude": 22.792431,
+        "longitude": 120.299141
+    },
+    "regulations": [],
+    "address": {
+        "streetAddressLine1": "Zhongshan N. Rd.",
+        "streetAddressLine2": "Gangshan Dist.",
+        "streetAddressLine3": null,
+        "city": "Kaohsiung City",
+        "countrySubdivisionCode": "KHH",
+        "countryCode": "TW",
+        "postalCode": "82065"
+    },
+    "timeZoneInfo": {
+        "currentTimeOffset": 480,
+        "windowsTimeZoneId": "Taipei Standard Time",
+        "olsonTimeZoneId": "GMT+08:00 Asia/Taipei"
+    },
+    "brandName": "Starbucks",
+    "ownershipTypeCode": "LS",
+    "open": null,
+    "openStatusText": "",
+    "addressLines": ["Zhongshan N. Rd.", "Gangshan Dist.", "Kaohsiung City, KHH 82065"],
+    "mop": {
+        "ready": false,
+        "wait": null
+    },
+    "features": [{
+        "code": "DT",
+        "name": "Drive-Thru"
+    }],
+    "slug": "gangshan-kaohsiung-zhongshan-n-rd-kaohsiung-city-khh-82065-tw"
+}, {
+    "recommendation": {},
+    "storeNumber": "31102-103855",
+    "id": "6250",
+    "name": "Aquarium Pingtung",
+    "phoneNumber": null,
+    "coordinates": {
+        "latitude": 22.6375,
+        "longitude": 120.484733
+    },
+    "regulations": [],
+    "address": {
+        "streetAddressLine1": "No. 2, Houwan Road",
+        "streetAddressLine2": null,
+        "streetAddressLine3": null,
+        "city": "Pingtung City",
+        "countrySubdivisionCode": "PIF",
+        "countryCode": "TW",
+        "postalCode": "944"
+    },
+    "timeZoneInfo": {
+        "currentTimeOffset": 480,
+        "windowsTimeZoneId": "Taipei Standard Time",
+        "olsonTimeZoneId": "GMT+08:00 Asia/Taipei"
+    },
+    "brandName": "Starbucks",
+    "ownershipTypeCode": "LS",
+    "open": null,
+    "openStatusText": "",
+    "addressLines": ["No. 2, Houwan Road", "Pingtung City, PIF 944"],
+    "mop": {
+        "ready": false,
+        "wait": null
+    },
+    "features": [],
+    "slug": "aquarium-pingtung-no-2-houwan-road-pingtung-city-pif-944-tw"
+}, {
+    "recommendation": {},
+    "storeNumber": "18658-187944",
+    "id": "1007836",
+    "name": "Pingtung Ziyou",
+    "phoneNumber": null,
+    "coordinates": {
+        "latitude": 22.67326,
+        "longitude": 120.487137
+    },
+    "regulations": [],
+    "address": {
+        "streetAddressLine1": "Ziyou Rd.,&Zhongshan Rd",
+        "streetAddressLine2": "Pingtung City District",
+        "streetAddressLine3": null,
+        "city": "Pingtung County",
+        "countrySubdivisionCode": "PIF",
+        "countryCode": "TW",
+        "postalCode": "90065"
+    },
+    "timeZoneInfo": {
+        "currentTimeOffset": 480,
+        "windowsTimeZoneId": "Taipei Standard Time",
+        "olsonTimeZoneId": "GMT+08:00 Asia/Taipei"
+    },
+    "brandName": "Starbucks",
+    "ownershipTypeCode": "LS",
+    "open": null,
+    "openStatusText": "",
+    "addressLines": ["Ziyou Rd.,&Zhongshan Rd", "Pingtung City District", "Pingtung County, PIF 90065"],
+    "mop": {
+        "ready": false,
+        "wait": null
+    },
+    "features": [],
+    "slug": "pingtung-ziyou-ziyou-rd-zhongshan-rd-pingtung-county-pif-90065-tw"
+}, {
+    "recommendation": {},
+    "storeNumber": "33383-64264",
+    "id": "6176",
+    "name": "Ping Dong",
+    "phoneNumber": null,
+    "coordinates": {
+        "latitude": 22.6888,
+        "longitude": 120.496834
+    },
+    "regulations": [],
+    "address": {
+        "streetAddressLine1": "No. 72 Jungjeng Rd.",
+        "streetAddressLine2": "1F",
+        "streetAddressLine3": null,
+        "city": "Pingtung City",
+        "countrySubdivisionCode": "PIF",
+        "countryCode": "TW",
+        "postalCode": "900"
+    },
+    "timeZoneInfo": {
+        "currentTimeOffset": 480,
+        "windowsTimeZoneId": "Taipei Standard Time",
+        "olsonTimeZoneId": "GMT+08:00 Asia/Taipei"
+    },
+    "brandName": "Starbucks",
+    "ownershipTypeCode": "LS",
+    "open": null,
+    "openStatusText": "",
+    "addressLines": ["No. 72 Jungjeng Rd.", "1F", "Pingtung City, PIF 900"],
+    "mop": {
+        "ready": false,
+        "wait": null
+    },
+    "features": [],
+    "slug": "ping-dong-no-72-jungjeng-rd-pingtung-city-pif-900-tw"
+}, {
+    "recommendation": {},
+    "storeNumber": "16912-176927",
+    "id": "70011",
+    "name": "Buddha Memorial Center",
+    "phoneNumber": null,
+    "coordinates": {
+        "latitude": 22.771867,
+        "longitude": 120.447811
+    },
+    "regulations": [],
+    "address": {
+        "streetAddressLine1": "No.1, Tongling Rd., Dashu Dist",
+        "streetAddressLine2": null,
+        "streetAddressLine3": null,
+        "city": "Kaohsiung City",
+        "countrySubdivisionCode": "KHH",
+        "countryCode": "TW",
+        "postalCode": "84049"
+    },
+    "timeZoneInfo": {
+        "currentTimeOffset": 480,
+        "windowsTimeZoneId": "Taipei Standard Time",
+        "olsonTimeZoneId": "GMT+08:00 Asia/Taipei"
+    },
+    "brandName": "Starbucks",
+    "ownershipTypeCode": "LS",
+    "open": null,
+    "openStatusText": "",
+    "addressLines": ["No.1, Tongling Rd., Dashu Dist", "Kaohsiung City, KHH 84049"],
+    "mop": {
+        "ready": false,
+        "wait": null
+    },
+    "features": [],
+    "slug": "buddha-memorial-center-no-1-tongling-rd-dashu-dist-kaohsiung-city-khh-840"
+}, {
+    "recommendation": {},
+    "storeNumber": "56170-286556",
+    "id": "1024044",
+    "name": "Donggang-Pingtung",
+    "phoneNumber": null,
+    "coordinates": {
+        "latitude": 22.469077,
+        "longitude": 120.454958
+    },
+    "regulations": [],
+    "address": {
+        "streetAddressLine1": "No.356, Sec. 1, Guangfu Rd.",
+        "streetAddressLine2": "Donggang Township",
+        "streetAddressLine3": null,
+        "city": "Pingtung County",
+        "countrySubdivisionCode": "PIF",
+        "countryCode": "TW",
+        "postalCode": "92849"
+    },
+    "timeZoneInfo": {
+        "currentTimeOffset": 480,
+        "windowsTimeZoneId": "Taipei Standard Time",
+        "olsonTimeZoneId": "GMT+08:00 Asia/Taipei"
+    },
+    "brandName": "Starbucks",
+    "ownershipTypeCode": "LS",
+    "open": null,
+    "openStatusText": "",
+    "addressLines": ["No.356, Sec. 1, Guangfu Rd.", "Donggang Township", "Pingtung County, PIF 92849"],
+    "mop": {
+        "ready": false,
+        "wait": null
+    },
+    "features": [],
+    "slug": "donggang-pingtung-no-356-sec-1-guangfu-rd-pingtung-county-pif-92849-"
+}, {
+    "recommendation": {},
+    "storeNumber": "52605-278224",
+    "id": "1022524",
+    "name": "Luzhu - Kaohsiung",
+    "phoneNumber": null,
+    "coordinates": {
+        "latitude": 22.869221,
+        "longitude": 120.255908
+    },
+    "regulations": [],
+    "address": {
+        "streetAddressLine1": "No.475, Zhongshan Rd.",
+        "streetAddressLine2": "Luzhu Dist.",
+        "streetAddressLine3": null,
+        "city": "Kaohsiung",
+        "countrySubdivisionCode": "KHH",
+        "countryCode": "TW",
+        "postalCode": "82152"
+    },
+    "timeZoneInfo": {
+        "currentTimeOffset": 480,
+        "windowsTimeZoneId": "Taipei Standard Time",
+        "olsonTimeZoneId": "GMT+08:00 Asia/Taipei"
+    },
+    "brandName": "Starbucks",
+    "ownershipTypeCode": "LS",
+    "open": null,
+    "openStatusText": "",
+    "addressLines": ["No.475, Zhongshan Rd.", "Luzhu Dist.", "Kaohsiung, KHH 82152"],
+    "mop": {
+        "ready": false,
+        "wait": null
+    },
+    "features": [{
+        "code": "DT",
+        "name": "Drive-Thru"
+    }],
+    "slug": "luzhu-kaohsiung-no-475-zhongshan-rd-kaohsiung-khh-82152-tw"
+}, {
+    "recommendation": {},
+    "storeNumber": "31467-107018",
+    "id": "6075",
+    "name": "Ren De South",
+    "phoneNumber": null,
+    "coordinates": {
+        "latitude": 22.906183,
+        "longitude": 120.266004
+    },
+    "regulations": [],
+    "address": {
+        "streetAddressLine1": "No. 1-15, Zhongzhou Village, Rende Dist",
+        "streetAddressLine2": null,
+        "streetAddressLine3": null,
+        "city": "Tainan City",
+        "countrySubdivisionCode": "TNN",
+        "countryCode": "TW",
+        "postalCode": null
+    },
+    "timeZoneInfo": {
+        "currentTimeOffset": 480,
+        "windowsTimeZoneId": "Taipei Standard Time",
+        "olsonTimeZoneId": "GMT+08:00 Asia/Taipei"
+    },
+    "brandName": "Starbucks",
+    "ownershipTypeCode": "LS",
+    "open": null,
+    "openStatusText": "",
+    "addressLines": ["No. 1-15, Zhongzhou Village, Rende Dist"],
+    "mop": {
+        "ready": false,
+        "wait": null
+    },
+    "features": [],
+    "slug": "ren-de-south-no-1-15-zhongzhou-village-rende-dist-tainan-city-t"
+}, {
+    "recommendation": {},
+    "storeNumber": "31466-107017",
+    "id": "6074",
+    "name": "Ren De North",
+    "phoneNumber": null,
+    "coordinates": {
+        "latitude": 22.906558,
+        "longitude": 120.265038
+    },
+    "regulations": [],
+    "address": {
+        "streetAddressLine1": "No. 1-16, Zhongzhou Village, Rende Dist",
+        "streetAddressLine2": null,
+        "streetAddressLine3": null,
+        "city": "Tainan City",
+        "countrySubdivisionCode": "TNN",
+        "countryCode": "TW",
+        "postalCode": "717"
+    },
+    "timeZoneInfo": {
+        "currentTimeOffset": 480,
+        "windowsTimeZoneId": "Taipei Standard Time",
+        "olsonTimeZoneId": "GMT+08:00 Asia/Taipei"
+    },
+    "brandName": "Starbucks",
+    "ownershipTypeCode": "LS",
+    "open": null,
+    "openStatusText": "",
+    "addressLines": ["No. 1-16, Zhongzhou Village, Rende Dist", "Tainan City, TNN 717"],
+    "mop": {
+        "ready": false,
+        "wait": null
+    },
+    "features": [],
+    "slug": "ren-de-north-no-1-16-zhongzhou-village-rende-dist-tainan-city-t"
+}, {
+    "recommendation": {},
+    "storeNumber": "26902-246038",
+    "id": "1012030",
+    "name": "THSR Tainan Station",
+    "phoneNumber": null,
+    "coordinates": {
+        "latitude": 22.924931,
+        "longitude": 120.285721
+    },
+    "regulations": [],
+    "address": {
+        "streetAddressLine1": "No.100, Guiren Blvd",
+        "streetAddressLine2": "Guiren Dist",
+        "streetAddressLine3": null,
+        "city": "Tainan City",
+        "countrySubdivisionCode": "TNN",
+        "countryCode": "TW",
+        "postalCode": "71151"
+    },
+    "timeZoneInfo": {
+        "currentTimeOffset": 480,
+        "windowsTimeZoneId": "Taipei Standard Time",
+        "olsonTimeZoneId": "GMT+08:00 Asia/Taipei"
+    },
+    "brandName": "Starbucks",
+    "ownershipTypeCode": "LS",
+    "open": null,
+    "openStatusText": "",
+    "addressLines": ["No.100, Guiren Blvd", "Guiren Dist", "Tainan City, TNN 71151"],
+    "mop": {
+        "ready": false,
+        "wait": null
+    },
+    "features": [],
+    "slug": "thsr-tainan-station-no-100-guiren-blvd-tainan-city-tnn-71151-tw"
+}]
