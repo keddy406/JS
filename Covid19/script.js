@@ -77,7 +77,7 @@ const showDataOnMap = (data) => {
       map: map,
       center: countryCenter,
       // radius: Math.sqrt(country.cases) * 100
-      radius: Math.sqrt(country.recoveredPerOneMillion) * 6000,
+      radius: 80000+country.recoveredPerOneMillion*10,
     });
 
     var html = `
